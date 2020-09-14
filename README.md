@@ -1,3 +1,12 @@
+# Tabla de Contenidos
+  1. [Introducción](#introducción)
+    2. [Usar C# con Visual Studio Code](#Usar-C#-con-Visual-Studio-Code)
+    3. Tipos da datos, Variables y Constantes.
+
+## Introducción
+
+
+
 # Usar C# con Visual Studio Code
 
 Para poder utilizar C# con Visual Studio Code *Visual Studio Code*, *el SDK .NET* y *la extensión de C# para visual Studio Code*, algunas puede que ya las tengas instalada.
@@ -85,4 +94,6 @@ El código se ejecuto correctamente pero no se detuvo y la aplicación se cerro,
 Cuando uses el *break point* tu programa se ejecutara hasta ese punto y cuando uses *Console.ReadLine();* el programa esperara hasta que ingreses algún dato por medio del teclado. Puedes usar ambos si es necesario.
 
 ![readline](img/readline.jpg)
+
+**[⬆ volver arriba](#tabla-de-contenidos)**
 
