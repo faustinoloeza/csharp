@@ -1,7 +1,7 @@
 # Tabla de Contenidos
   1. [Introducción](#introducción)
   2. [Usar C# con Visual Studio Code](#usar-c#-con-visual-studio-code)
-  3. [Tipos de datos, Variables y Constantes](#tipos-de-datos,-variables-y-constantes)
+  3. [Tipos de datos, Variables y Constantes](#Tipos-de-datos-Variables-y-Constantes)
 
 ## Introducción
 
@@ -9,7 +9,7 @@
 
 # Usar C# con Visual Studio Code
 
-Para poder utilizar C# con Visual Studio Code necesitaremos *Visual Studio Code*, *el SDK de .NET* y *la extensión de C# para visual Studio Code*, algunas puede que ya las tengas instalada.
+Para poder utilizar C# con Visual Studio Code necesitaremos *Visual Studio Code*, *el SDK de .NET* y *la extensión de C# para visual Studio Code*, algunas puede que ya las tengas instaladas.
 
 ## Prerequisitos
 
@@ -19,7 +19,7 @@ Para poder utilizar C# con Visual Studio Code necesitaremos *Visual Studio Code*
 
 ## Probando con Hello World
 
-Para verificar que tenemos todo instalado correctamente y que podemos utilizar .NET  crearemos una aplicación, para ellorimero creare una carpeta llamada ejemplosCsharp, abriremos la terminal y ejecutaremos lo siguiente.
+Para verificar que tenemos todo instalado correctamente y que podemos utilizar .NET  crearemos una aplicación, para ello primero creamos una carpeta llamada *ejemplosCsharp*, abriremos la terminal y ejecutaremos lo siguiente.
 
 ````
 mkdir ejemplosCsharp
@@ -50,7 +50,7 @@ La imagen inferior muestra los comando utilizados y el resultado obtenido.
 
 ## Editando la aplicación
 
-Una vez que ejecutamos la aplicación nos arroja un mensaje que no es muy interesante cambiaremos esto por uno mas atractivo lo primero que tenemos que hacer es abrir o esta aplicación con Visual Studio Code, podemos usar el siguiente comando o simplemente arrastrar la carpeta creada al editor.
+Una vez que ejecutamos la aplicación nos arroja un mensaje que no es muy interesante cambiaremos esto por uno mas atractivo lo primero que tenemos que hacer es abrir la aplicación con Visual Studio Code, podemos usar el siguiente comando o simplemente arrastrar la carpeta al editor.
 
 ```
 code .
@@ -65,7 +65,7 @@ Ahora creamos una variable llamada nombre y después la concatenaremos a nuestro
  Console.WriteLine("Hello World! "+ name);
 ````
 
-Bien ahora nuestra aplicación es mas interesante pero podemos observar que la aplicación presenta ciertos mensajes que no pertenecen al código por ejemplo *0 references* 
+Bien ahora nuestra aplicación es mas interesante, pero podemos observar que la aplicación presenta ciertos mensajes que no pertenecen al código por ejemplo *0 references* 
 
 ![mensaje](img/mensaje.jpg)
 
@@ -77,7 +77,7 @@ Listo nuestra aplicación esta terminada.
 
 ## Start Debuguing
 
-Ejecutar nuestra aplicación desde la consola no es siempre lo mas optimo cuando queremos encontrar errores o debuguearla  paso a paso. Para tener mejor control de nuestra aplicación la ejecutaremos en modo debug. Primero nos iremos a **View > Command Palette** o ejecutamos el comando **CTRL + SHIFT + P** y buscamos *generate*.
+Ejecutar nuestra aplicación desde la consola no es siempre lo mas optimo cuando queremos encontrar errores o debuguearla  paso a paso. Para tener mejor control de la aplicación de nuestra aplicación la ejecutaremos en modo debug. Primero nos iremos a **View > Command Palette** o ejecutamos el comando **CTRL + SHIFT + P** y buscamos *generate*.
 
 ![](img/generate.jpg)
 
@@ -89,13 +89,13 @@ Una vez echo esto nos iremos a **Run > Start Debugguing** y esto ejecutara nuest
 
 ![debug](img/debug.jpg)
 
-El código se ejecuto correctamente pero no se detuvo y la aplicación se cerro, para detenerla y poder apreciar el mensaje en pantalla podemos pedirle que se detenga y esto lo podemos hacer poniendo un **break point** en nuestro código y ejecutar el código hasta antes o después de ese break point o poner  *Console.ReadLine();* para que espera una entrada por parte del usuario y se detenga hasta que el usuario ingrese algo. En la parte inferior te muestro ambos casos.
+El código se ejecuto correctamente pero no se detuvo y la aplicación se cerro, para detenerla y poder apreciar el mensaje en pantalla podemos pedirle que se detenga y esto lo podemos hacer añadiendo un **break point** en nuestro código o poner  *Console.ReadLine();* para que la aplicación espere una entrada por parte del usuario y se detenga hasta que el usuario ingrese algo. En la parte inferior te muestro ambos casos.
 
-Cuando uses el *break point* tu programa se ejecutara hasta ese punto y cuando uses *Console.ReadLine();* el programa esperara hasta que ingreses algún dato por medio del teclado. Puedes usar ambos si es necesario.
+Cuando uses el *break point* tu programa se ejecutara hasta ese punto y cuando uses *Console.ReadLine();* el programa esperara hasta que ingreses algún dato por medio del teclado. Puedes usar ambos si asi lo requieres.
 
 ![readline](img/readline.jpg)
 
 **[⬆ volver arriba](#tabla-de-contenidos)**
 
-# Tipos de datos, Variables y Constantes
+# Tipos de datos Variables y Constantes
 
