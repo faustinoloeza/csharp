@@ -1,7 +1,7 @@
 # Tabla de Contenidos
   1. [Introducción](#introducción)
-    2. [Usar C# con Visual Studio Code](#Usar-C#-con-Visual-Studio-Code)
-    3. [Tipos de datos, Variables y Constantes](#Tipos-de-datos,-Variables-y-Constantes)
+  2. [Usar C# con Visual Studio Code](#Usar-C#-con-Visual-Studio-Code)
+  3. [Tipos de datos, Variables y Constantes](#Tipos-de-datos,-Variables-y-Constantes)
 
 ## Introducción
 
