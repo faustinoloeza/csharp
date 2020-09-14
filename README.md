@@ -1,7 +1,7 @@
 # Tabla de Contenidos
   1. [Introducción](#introducción)
     2. [Usar C# con Visual Studio Code](#Usar-C#-con-Visual-Studio-Code)
-    3. [Tipos da datos, Variables y Constantes](#Tipos da datos, Variables y Constantes)
+    3. [Tipos de datos, Variables y Constantes](#Tipos-de-datos,-Variables-y-Constantes)
 
 ## Introducción
 
@@ -97,5 +97,5 @@ Cuando uses el *break point* tu programa se ejecutara hasta ese punto y cuando u
 
 **[⬆ volver arriba](#tabla-de-contenidos)**
 
-# Tipos da datos, Variables y Constantes
+# Tipos de datos, Variables y Constantes
 
