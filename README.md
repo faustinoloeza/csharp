@@ -1,7 +1,7 @@
 # Tabla de Contenidos
   1. [Introducción](#introducción)
-  2. [Usar C# con Visual Studio Code](#Usar-C#-con-Visual-Studio-Code)
-  3. [Tipos de datos, Variables y Constantes](#Tipos-de-datos,-Variables-y-Constantes)
+  2. [Usar C# con Visual Studio Code](#usar-c#-con-visual-studio-code)
+  3. [Tipos de datos, Variables y Constantes](#tipos-de-datos,-variables-y-constantes)
 
 ## Introducción
 
@@ -9,7 +9,7 @@
 
 # Usar C# con Visual Studio Code
 
-Para poder utilizar C# con Visual Studio Code *Visual Studio Code*, *el SDK .NET* y *la extensión de C# para visual Studio Code*, algunas puede que ya las tengas instalada.
+Para poder utilizar C# con Visual Studio Code necesitaremos *Visual Studio Code*, *el SDK de .NET* y *la extensión de C# para visual Studio Code*, algunas puede que ya las tengas instalada.
 
 ## Prerequisitos
 
